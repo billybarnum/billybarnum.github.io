@@ -266,6 +266,7 @@ DEPENDENCIES
   github-pages
   jekyll-algolia
   jekyll-feed
+  jekyll-paginate
   minimal-mistakes-jekyll
   tzinfo-data
 
