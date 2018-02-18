@@ -42,7 +42,12 @@ plugins:
   - jekyll-feed
 minimal_mistakes_skin: "contrast"
 search: true
-# search_full_content: true
+search_provider: algolia
+algolia:
+  application_id: YE2XUE0VFN
+  index_name: jekyll-blog
+  search_only_api_key: a3842892398c2f0116e12fc93da5eab3
+  powered_by: false
 category_archive:
   type: liquid
   path: /categories/
