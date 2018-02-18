@@ -22,7 +22,7 @@ timezone: America/New_York
 twitter:
   username: "WilliamGBarnum"
 github_username:  billybarnum
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 
 #Author settings for the left sidebar
